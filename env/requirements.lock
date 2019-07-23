@@ -1,12 +1,12 @@
 dependencies:
-- alias: tekton
-  name: tekton
+- name: tekton
   repository: https://storage.googleapis.com/chartmuseum.jenkins-x.io
   version: 0.0.39
-- alias: prow
-  name: prow
+- name: prow
   repository: https://storage.googleapis.com/chartmuseum.jenkins-x.io
   version: 0.0.944
 - name: jenkins-x-platform
   repository: https://storage.googleapis.com/chartmuseum.jenkins-x.io
-  version: 2.0.868
+  version: 2.0.866
+digest: sha256:2e379d4bf265d43baae9ea9fdd857f8a5d9f20fb48dc044a25968894b8a99f57
+generated: 2019-07-22T15:51:52.242487-07:00
